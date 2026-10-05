@@ -1,0 +1,1 @@
+[project]\nname = "genpark-generative-engine-optimization-and-citation-scorer-skill"\nversion = "1.0.0"\ndescription = "Analyzes digital content for AI search engine citation visibility, factual definitions, and structured metrics"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
