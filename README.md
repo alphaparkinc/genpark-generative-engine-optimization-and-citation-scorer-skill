@@ -1,0 +1,1 @@
+# genpark-generative-engine-optimization-and-citation-scorer-skill\n\nAnalyzes digital content for AI search engine citation visibility, factual definitions, and structured metrics.\n\n100% Python Standard Library implementation with zero external dependencies.
