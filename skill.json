@@ -1,0 +1,8 @@
+{
+  "name": "genpark-generative-engine-optimization-and-citation-scorer-skill",
+  "version": "1.0.0",
+  "description": "Analyzes digital content for AI search engine citation visibility, factual definitions, and structured metrics",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
